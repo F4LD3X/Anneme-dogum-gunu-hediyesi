@@ -20,15 +20,9 @@ body {
 
 h1 {
     color: #fff;
-    margin-top: 20px;
-    position: absolute;
-    top: -80px;
-    left: 50%;
-    transform: translateX(-50%);
-    background-color: transparent;
-    padding: 10px 20px;
-    border-radius: 5px;
-    font-family: 'Patrick Hand', cursive;
+    position: relative;
+    top: 0;
+    margin-bottom: 20px;
 }
 
 h2 {
